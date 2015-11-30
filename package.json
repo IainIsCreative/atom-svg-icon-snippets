@@ -11,9 +11,9 @@
   "license" : "MIT",
   "repository" : {
     "type" : "git",
-    "repository" : "https://github.com/iainspad/Atom-SVG-Icon-Snippets.git"
+    "repository" : "https://github.com/iainspad/atom-svg-icon-snippets.git"
   },
   "bugs" : {
-    "url" : "https://github.com/iainspad/Atom-SVG-Icon-Snippets/issues"
+    "url" : "https://github.com/iainspad/atom-svg-icon-snippets/issues"
   }
 }
