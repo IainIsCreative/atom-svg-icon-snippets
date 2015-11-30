@@ -1,6 +1,6 @@
 {
   "name": "atom-svg-icon-snippets",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Simple snippets for adding SVGs in HTML using Atom",
   "repository": {
     "type": "git",
