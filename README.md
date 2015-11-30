@@ -1,6 +1,6 @@
 # Atom: SVG Icon Snippets
 
-This is a fork of [Simon Owen's](http://github.com/s10wen) Sublime Text SVG Icon Snippets, converted for use in Atom.
+This is a fork of [Simon Owen's](http://github.com/s10wen) Sublime Text SVG Icon Snippets, converted for use in Atom. This allows you to write SVG Icons into your HTML by a small, prefixed snippet.
 
 
 ## Install
