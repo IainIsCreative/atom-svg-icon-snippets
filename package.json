@@ -1,19 +1,19 @@
 {
-  "name" : "atom-svg-icon-snippets",
-  "description" : "Simple snippets for adding SVGs in HTML while using ATOM",
-  "keywords" : [
+  "name": "atom-svg-icon-snippets",
+  "description": "Simple snippets for adding SVGs in HTML while using ATOM",
+  "keywords": [
     "html",
     "svg",
     "icon",
     "snippets"
   ],
-  "version" : "0.1.0",
-  "license" : "MIT",
-  "repository" : {
-    "type" : "git",
-    "repository" : "https://github.com/iainspad/atom-svg-icon-snippets.git"
+  "version": "0.1.0",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "repository": "https://github.com/iainspad/atom-svg-icon-snippets.git"
   },
-  "bugs" : {
-    "url" : "https://github.com/iainspad/atom-svg-icon-snippets/issues"
+  "bugs": {
+    "url": "https://github.com/iainspad/atom-svg-icon-snippets/issues"
   }
 }
