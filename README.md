@@ -34,3 +34,4 @@ apm install atom-svg-icon-snippets
 ## License
 
 MIT © [Simon Owen](http://s10wen.com)
+Modified for Atom by [Iain MacDonald](http://iainspad.com)
