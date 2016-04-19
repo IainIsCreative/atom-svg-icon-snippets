@@ -10,7 +10,7 @@
   {
     'label': 'Packages'
     'submenu': [
-      'label': 'atom-svg-icon-snippets'
+      'label': 'Atom SVG Icon Snippets'
       'submenu': [
         {
           'label': 'Toggle'
